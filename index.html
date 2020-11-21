@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Sim Github Repo</title>
+        <link rel="stylesheet" href="css/main.css">
+    <body>
+        <div class="Header-Welcome">
+            <p>Placeholder Welcome Text</p>
+        </div>
+    </body>
+</html>
